@@ -1,4 +1,5 @@
 # Creating a project for GitHub
 # By Dominic Lucciani
 
-print("COP2002 Fall 2030)
+#   Adding a blank line at the end of file
+print("I'm understanding how to use GitHub to keep track of changes!")
